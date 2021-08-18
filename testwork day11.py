@@ -1,0 +1,10 @@
+name = input("what is your name?")
+birthday = input("when is your birthday?")
+age = input("how old are you turning?")
+sender = input("who is sending the email?")
+
+print("hello " + name)
+print("we heard that today, " + birthday + " it's your birthday!")
+print("we at MARVX inc. would like to wish you a happy birthday")
+print("congratulations on turning " + age)
+print("warmest regards, " + sender)
